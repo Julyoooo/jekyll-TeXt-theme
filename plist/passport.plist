@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://wappass.qatest.baidu.com/static/demo/iOS/app/passport/SAPIStandardDemo.ipa</string>
+                    <string>http://ppclient.passport.baidu.com/static/ios/app/SAPIStandardDemo.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
