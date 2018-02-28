@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+titles:
+  en: About
+  zh: 关于
+  zh-Hans: 关于
+  zh-Hant: 關於
+key: page-about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Just say something about yourself. :+1:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+{% highlight javascript %}
+  (() => console.log('hello, world!'))();
+{% endhighlight %}
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## title
